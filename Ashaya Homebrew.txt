@@ -1,0 +1,72 @@
+1 Acidic Slime
+1 Aggressive Mammoth
+1 Arbor Elf
+1 Ashaya, Soul of the Wild
+1 Avenger of Zendikar
+1 Beanstalk Giant // Fertile Footsteps
+1 Beast Whisperer
+1 Beast Within
+1 Blanchwood Armor
+1 Blighted Woodland
+1 Broken Bond
+1 Collective Unconscious
+1 Colossal Majesty
+1 Crash of Rhino Beetles
+1 Cultivate
+1 Detection Tower
+1 Dungrove Elder
+1 Earth Surge
+1 Elvish Mystic
+1 Embodiment of Insight
+1 Emerald Medallion
+1 Evolution Sage
+1 Explosive Vegetation
+30 Forest
+1 Fortitude
+1 Fyndhorn Elves
+1 Garruk's Packleader
+1 Garruk's Uprising
+1 Harmonize
+1 Harrow
+1 Hurricane
+1 Kalonian Twingrove
+1 Karametra's Acolyte
+1 Kazandu Mammoth // Kazandu Valley
+1 Lifecrafter's Bestiary
+1 Lignify
+1 Llanowar Druid
+1 Llanowar Elves
+1 Moss Diamond
+1 Multani, Yavimaya's Avatar
+1 Myriad Landscape
+1 Naturalize
+1 Nevinyrral's Disk
+1 Oran-Rief Hydra
+1 Overwhelming Stampede
+1 Prey Upon
+1 Primal Bellow
+1 Rampaging Baloths
+1 Reclamation Sage
+1 Reliquary Tower
+1 Retreat to Kazandu
+1 Return of the Wildspeaker
+1 Return to Nature
+1 Rhonas's Monument
+1 Rogue's Passage
+1 Sakura-Tribe Elder
+1 Scute Mob
+1 Scute Swarm
+1 Seer's Sundial
+1 Shamanic Revelation
+1 Shared Summons
+1 Snake Umbra
+1 Sol Ring
+1 Soul's Majesty
+1 Sylvan Advocate
+1 Tangled Florahedron // Tangled Vale
+1 Temple of the False God
+1 Timber Protector
+1 Ulvenwald Hydra
+1 Vivien Reid
+1 Wayfarer's Bauble
+
